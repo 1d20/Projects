@@ -2,4 +2,4 @@
 
 ---
 
-1. synddb для composer для Laravel
+1. syncdb для composer для Laravel

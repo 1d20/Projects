@@ -2,5 +2,5 @@
 
 ---
 
-1. syncdb для composer для Laravel
-2. ER-diagram from models.py
+1. syncdb for composer for Laravel
+2. ERD from models.py

@@ -2,5 +2,5 @@
 
 ---
 
-1. syncdb for composer for Laravel
+1. syncdb for Laravel composer
 2. ERD from models.py
